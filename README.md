@@ -7,6 +7,6 @@ The steps mentioned mostly follow this [documentation](https://tensorflow-object
 
 ## Prerequisites
 CUDA 10.1  <br />
-Python3  <br />
+Python 3.7  <br />
 OpenCV-Python  <br />
 Tensorflow 2.3.0  <br />
