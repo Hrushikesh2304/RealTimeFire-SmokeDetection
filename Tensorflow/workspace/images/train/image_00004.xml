@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>image_00004.jpg</filename>
+	<path>C:\Users\hrush\Desktop\Project\RealTimeObjectDetection-main\Tensorflow\workspace\images\allimages\image_00004.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>524</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Smoke</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>219</ymin>
+			<xmax>535</xmax>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

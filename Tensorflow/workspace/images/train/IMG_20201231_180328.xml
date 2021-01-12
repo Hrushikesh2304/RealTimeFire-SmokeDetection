@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>IMG_20201231_180328.jpg</filename>
+	<path>C:\Users\hrush\Desktop\Project\RealTimeObjectDetection-main\Tensorflow\workspace\images\allimages\IMG_20201231_180328.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2340</width>
+		<height>4160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>590</xmin>
+			<ymin>2252</ymin>
+			<xmax>1317</xmax>
+			<ymax>2620</ymax>
+		</bndbox>
+	</object>
+</annotation>
